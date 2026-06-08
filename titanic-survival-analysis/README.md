@@ -66,7 +66,8 @@ Created an interactive dashboard to visualise:
 
 ## Dashboard
 
-(Add dashboard screenshot here)
+<img width="675" height="512" alt="TitanicTableauDashboard" src="https://github.com/user-attachments/assets/d0abdcee-c6b0-47e4-b8f1-6cf6a9c5e69c" />
+
 
 ```markdown
 ![Dashboard Overview](dashboard-overview.png)
@@ -101,8 +102,6 @@ Created an interactive dashboard to visualise:
 
 ## Repository Contents
 
-- Titanic_End_to_End_Project.ipynb
-- 
-  <img width="675" height="512" alt="TitanicTableauDashboard" src="https://github.com/user-attachments/assets/2712e596-26d0-48ec-9e99-63a0c2c0c37e" />
-
+- Titanic_End_to_End_DA_Project.ipynb
+- Dashboard screenshots
 - README.md
