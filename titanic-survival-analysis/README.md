@@ -69,10 +69,6 @@ Created an interactive dashboard to visualise:
 <img width="675" height="512" alt="TitanicTableauDashboard" src="https://github.com/user-attachments/assets/d0abdcee-c6b0-47e4-b8f1-6cf6a9c5e69c" />
 
 
-```markdown
-![Dashboard Overview](dashboard-overview.png)
-```
-
 ## Key Findings
 
 - First-class passengers had the highest survival rate (63%)
