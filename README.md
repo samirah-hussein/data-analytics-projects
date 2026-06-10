@@ -28,8 +28,24 @@ An end-to-end analysis exploring factors that influenced passenger survival on t
 - Dashboard development
 - Insight generation
 
+### London Bike Sharing Analysis
+
+An end-to-end data analytics project exploring bike-sharing usage patterns in London and investigating the impact of weather conditions on ride demand through interactive visualisations and dashboarding.
+
+**Skills used:**
+- Data cleaning
+- Data transformation
+- Exploratory Data Analysis
+- Data visualisation
+- Dashboard development
+- Tableau
+- Python (Pandas)
+- Insight generation
 
 ## Education
+
+**Hamilton Girls' High School**
+NCEA Lvl 1(Merit Endorsed), 2(Merit Endorsed, & 3
 
 **University of Waikato**  
 Bachelor of Science (Data Analytics)  
