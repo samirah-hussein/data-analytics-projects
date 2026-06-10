@@ -40,19 +40,6 @@ View the live dashboard here:
 - Ride demand varied considerably across different weather conditions.
 - Seasonal trends showed higher bike usage during warmer months.
 
-## Files
-
-| File | Description |
-|--------|------------|
-| `london_bike_sharing.ipynb` | Data cleaning and preparation in Python |
-| `london_bikes_final.xlsx` | Cleaned dataset used in Tableau |
-| `London Bikes.twbx` | Tableau dashboard workbook |
-| `Dashboard 1.png` | Dashboard screenshot |
-
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
-
 ## Project Outcome
 
 This project demonstrates the complete analytics workflow, including data acquisition, cleaning, transformation, visualisation, and dashboard development. The final dashboard allows users to interactively explore bike usage trends and weather impacts using dynamic filters and parameters.
