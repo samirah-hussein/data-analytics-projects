@@ -53,5 +53,5 @@ Expected Graduation: November 2027
 
 ## Contact
 
-Email: samirahh5424@gmail.com
+Email: samirahzinathussein@gmail.com
 LinkedIn: www.linkedin.com/in/samirah-hussein-762039371
